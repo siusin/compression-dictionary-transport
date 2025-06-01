@@ -1,4 +1,6 @@
-# Compression dictionary transport
+# Compression dictionary transport (Archived)
+
+🚫 **This project is no longer maintained.**
 
 The compression dictionary transport specification has moved to the IETF: [Compression Dictionary Transport](https://datatracker.ietf.org/doc/draft-ietf-httpbis-compression-dictionary/)
 
